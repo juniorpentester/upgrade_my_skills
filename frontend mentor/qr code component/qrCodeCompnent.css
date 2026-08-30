@@ -21,8 +21,10 @@ body{
     display: flex;
     flex-direction: column;
     justify-content:center;
+    align-items: center;
     width: 240px;
     /* width: 25vw; */
+    text-align: center;
     margin: 100px auto;
     background-color:hsl(0, 0%, 100%);
     border-radius: 20px;
@@ -42,16 +44,16 @@ body{
     color: hsl(218, 44%, 22%);
     font-weight: bold;
     margin-bottom: 1.3rem;
-    text-align: center;
-    width: 200px;
+    /* text-align: center; */
+    /* width: 200px; */
     font-size: 1.6rem;
 
 }
 
 .qr_description{
     color: hsl(216, 15%, 48%);
-    text-align: center;
-    width: 210px;
+    /* text-align: center; */
+    /* width: 210px; */
     font-size: 1.3rem;
     margin-bottom: 2rem;
 }
