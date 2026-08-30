@@ -1,1 +1,0 @@
-MONGODB_URI="mongodb+srv://pentesterdb:OMBQP1OWIPegsCM2@cluster0.7b0liic.mongodb.net/frachinformatiker"
