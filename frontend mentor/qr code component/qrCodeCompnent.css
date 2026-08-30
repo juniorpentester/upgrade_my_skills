@@ -1,26 +1,33 @@
 
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
+html {
+    font-size: 62.5%;
+}
+
+
 body{
-    font-family:'outfit';
-    font-size: 15px;
+    font-family:'Outfit';
+    font-size: 1.5rem;
     font-weight: 400;
     background-color: hsl(212, 45%, 89%)
 }
+
 
 .container{
     display: flex;
     flex-direction: column;
     justify-content:center;
     width: 240px;
+    /* width: 25vw; */
     margin: 100px auto;
     background-color:hsl(0, 0%, 100%);
     border-radius: 20px;
-    padding: 10px;
+    padding: 1rem;
 }
 
 .QRimage{
@@ -28,17 +35,17 @@ body{
     height: 210px;
     object-fit: cover;
     border-radius: 7px;
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
     position: relative;
 }
 
 .qr_title{
     color: hsl(218, 44%, 22%);
     font-weight: bold;
-    margin-bottom: 13px;
+    margin-bottom: 1.3rem;
     text-align: center;
     width: 200px;
-    font-size: 16px;
+    font-size: 1.6rem;
 
 }
 
@@ -46,6 +53,10 @@ body{
     color: hsl(216, 15%, 48%);
     text-align: center;
     width: 210px;
-    font-size: 13px;
-    margin-bottom: 20px;
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
 }
+
+.attribution { font-size: 0.8rem; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
