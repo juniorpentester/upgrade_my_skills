@@ -22,8 +22,8 @@ this is my solution to the blog preview card challenge on Frontend Mentor.
 
 ### Links
 
-- Solution URL: http://127.0.0.1:5500/frontend%20mentor/blog-preview-card-main/blog-preview-card-main/index.html
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/juniorpentester/upgrade_my_skills/tree/main/frontend%20mentor/blog-preview-card-main/blog-preview-card-main
+- Live Site URL: https://upgrade-my-skills-ovuq.vercel.app/
 
 ## My process
 
