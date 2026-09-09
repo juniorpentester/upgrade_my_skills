@@ -1,0 +1,3 @@
+/* start with layout design with google drawings * /
+/* build the structure with html  * /
+/* style using css step by step using the topics from 1 to 9  * /

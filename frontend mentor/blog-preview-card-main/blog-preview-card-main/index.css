@@ -1,0 +1,104 @@
+/* General styles*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: hsl(47, 88%, 63%);
+    font-family: "Figtree", sans-serif;
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+img{
+    max-width: 100%;
+}
+
+/* container styles*/
+.container{
+    display:flex;
+    flex-direction: column;
+    width: 33rem;
+    margin: 100px auto;
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 7px 7px  hsl(0, 0%, 7%);
+    border-radius: 13px;
+    padding: 1.7rem;
+    text-align: left;
+    border: 1px solid  hsl(0, 0%, 7%);
+}
+
+
+
+/*main content*/
+.image{
+    border-radius: 12px;
+    margin-bottom: 1rem;
+}
+
+.title{
+    background-color:  hsl(47, 88%, 63%);
+    font-weight: 800;
+    padding: 0.5rem 1.1rem;
+    border-radius: 3px;
+    font-size: 1.1rem;
+    width: 7.5rem;
+}
+
+.pub_date{
+    font-size: 1.2rem;
+    color:hsl(0, 0%, 42%);
+    margin:1rem 0 1.5rem 0;
+}
+
+.header{
+    line-height: 1.2;
+    font-weight: 800;
+    font-size: 2rem;
+    margin-bottom: 1.6rem;
+}
+
+.header:active{
+    color: hsl(47, 88%, 63%);
+    
+}
+ .header:hover{
+    cursor: pointer;
+ }
+
+
+.description{
+    font-size: 1.5rem;
+    color:hsl(0, 0%, 42%);
+    line-height: 1.4;
+}
+
+/* .description::selection{
+    color: lightslategray;
+} */
+
+.container-sm{
+  display: flex;  
+  flex-direction: row;
+  justify-content: baseline;
+  align-items: center;
+  gap: 1rem;
+  margin: 2rem 0 1.5rem 0;
+}
+
+.author_image{
+    width: 3rem;
+}
+
+.author_name{
+    color: hsl(0, 0%, 7%);
+    font-weight: 800;
+    font-size: 1.3rem;
+}

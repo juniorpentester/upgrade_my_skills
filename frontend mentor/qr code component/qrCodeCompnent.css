@@ -13,7 +13,9 @@ body{
     font-family:'Outfit';
     font-size: 1.5rem;
     font-weight: 400;
-    background-color: hsl(212, 45%, 89%)
+    background-color: hsl(212, 45%, 89%);
+    line-height: 1;
+    
 }
 
 /* utility classes */

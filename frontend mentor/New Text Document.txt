@@ -1,0 +1,74 @@
+/* start with layout design with google drawings * /
+/* build the structure with html  * /
+/* style using css step by step using the topics from 1 to 9 using the guidline below * /
+
+/*
+best practice is to divide the css in three files
+1- Global styles
+2- Component styles
+3- Section styles
+
+---------- TYPOGRAPHY ----------
+FONT-SIZES
+12px / 16px / 20px / 24px / 32px / 40px / 48px / 62px
+
+FONT-WEIGHTS
+400/700 or 500/800
+
+FONT-FAMILY
+choose among the popular
+
+LINE-HEIGHTS
+1.2/1.5
+
+LETTR SPACING
+0 / -2px
+
+---------- COLOR ----------
+PRIMARY
+Base:
+Tint:
+Shade:
+
+SECONDARY
+Base:
+Tint:
+Shade:
+
+TERTIARY
+Base:
+Tint:
+Shade:
+
+GREY(no necessary the color grey)
+Base:
+Tint:
+Shade:
+
+---------- BORDER RADIUS ----------
+
+
+---------- SPACING SYSTEM ----------
+
+
+----------something----------
+
+
+----------something----------
+
+
+----------something----------
+
+
+----------something----------
+
+
+----------something----------
+
+
+
+----------something----------
+
+
+
+*/
