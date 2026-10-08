@@ -26,7 +26,7 @@ img{
     display:flex;
     flex-direction: column;
     width: 33rem;
-    margin: 100px auto;
+    margin: 10rem auto;
     background-color: hsl(0, 0%, 100%);
     box-shadow: 7px 7px  hsl(0, 0%, 7%);
     border-radius: 13px;
@@ -87,7 +87,7 @@ img{
 .container-sm{
   display: flex;  
   flex-direction: row;
-  justify-content: baseline;
+  justify-content: flex start;
   align-items: center;
   gap: 1rem;
   margin: 2rem 0 1.5rem 0;
